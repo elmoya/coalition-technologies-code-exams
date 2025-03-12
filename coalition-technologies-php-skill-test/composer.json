@@ -1,0 +1,22 @@
+{
+  "name": "coalition/exam",
+  "description": "coalition technologies applicant exam",
+  "type": "project",
+  "require-dev": {
+    "php": "^7.4",
+    "phpunit/phpunit": "^9.5"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Coalition\\Exam\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hamza Alayed",
+      "email": "developerh108@gmail.com"
+    }
+  ],
+  "require": {}
+}
